@@ -1,8 +1,5 @@
 /* File: pokerhand.cpp
- * Course: CS216
- * Project: Project 2
  * Purpose: the implementation of member functions for the PokerHand class.
- * Author: Todd Jackson, II
  */
 #include "pokerhand.h"
 #include <iostream>
