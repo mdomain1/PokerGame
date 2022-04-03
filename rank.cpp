@@ -1,8 +1,5 @@
 /* File: rank.cpp
- * Course: CS216-00x
- * Project: Lab 9 (as part of Project 2)
  * Purpose: the implementation of member functions for the Rank class.
- * Name: Todd Jackson, II
  */
 #include <iostream>
 #include <iomanip>
