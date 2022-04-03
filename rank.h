@@ -1,6 +1,4 @@
 /* File: rank.h
- * Course: CS216-00x
- * Project: Lab 9 (as part of Project 2)
  * Purpose: the declaration for the Rank class.
  *** DO NOT CHANGE THIS FILE ***
  *
