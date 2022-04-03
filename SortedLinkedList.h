@@ -1,6 +1,4 @@
 /* File: SortedLinkedList.h
- * Course: CS216-00x
- * Project: Project 2
  * Purpose: The declaration of the Node class and the SortedLinkedList class
  * Since these two classes have very closed relationship, we declare them in one header file
  * 
