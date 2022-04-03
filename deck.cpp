@@ -1,8 +1,4 @@
 /* File: deck.cpp
- * Course: CS216
- * Project: Project 2
- * Purpose: the implementation of member functions for the Deck class
- * Author: Todd Jackson, II
  */
 #include "deck.h"
 
