@@ -1,6 +1,4 @@
 /* File: card.h
- * Course: CS216-00x
- * Project: Project 2
  * Purpose: the declaration for the Card class.
  *** DO NOT CHANGE THIS FILE ***
  *
