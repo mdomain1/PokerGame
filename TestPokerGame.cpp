@@ -1,6 +1,4 @@
 /*
- * Course: CS216-00x
- * Project: Project 2
  * Purpose: to decide the best FIVE-card poker hand out of SEVEN cards according to poker hand ranking
  *          the testing cases are created for the purpose of testing your definition of PokerHand class
  *          
