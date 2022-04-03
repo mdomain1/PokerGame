@@ -1,5 +1,4 @@
 /* File: pokerhand.h
- * Course: CS216-00x
  * Project: Project 2
  * Purpose: the declaration for the PokerHand class.
  **** YOU MAY ADD MEMBER FUNCTIONS OR HELPER FUNCIONS ***
