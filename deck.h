@@ -1,6 +1,4 @@
 /* File: deck.h
- * Course: CS216-00x
- * Project: Project 2
  * Purpose: the declaration for the Deck class.
  *** DO NOT CHANGE THIS FILE ***
  *
